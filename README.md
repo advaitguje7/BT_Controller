@@ -9,3 +9,4 @@ This is a program to play games wirelessly using an ESP-32. It is designed aroun
 
 ## Overview
 ## Schematic
+<img width="808" height="501" alt="image" src="https://github.com/user-attachments/assets/acdf3180-b2ea-4c29-97d9-1294470191ae" />
