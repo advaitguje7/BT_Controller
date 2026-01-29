@@ -1,4 +1,4 @@
-This is a program to play games via Bluetooth using an ESP-32. It is designed around Minecraft's default binds, but the controls can be changed as needed.
+This is a program to play games via Bluetooth using an ESP-32. It is designed around Minecraft's default binds, but the controls can be changed as needed. Note that since this program uses the BleCombo library, you'll need to downgrade the ESP-32 version to 2.x.x. I used 2.0.17.
 
 ## To-Do
 - [x] Basic motion: strafing (buttons), looking around (joystick 1)
